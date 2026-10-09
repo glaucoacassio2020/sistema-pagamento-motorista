@@ -1,6 +1,6 @@
-package application;
+package br.com.glauco.application;
 
-import entities.*;
+import br.com.glauco.entities.*;
 
 public class Main {
     public static void main(String[] args) {

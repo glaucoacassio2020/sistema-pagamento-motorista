@@ -1,4 +1,4 @@
-package entities;
+package br.com.glauco.entities;
 
 public class MotoristaParceiroFrotista extends Motorista {
     public MotoristaParceiroFrotista(String nome, String placa) {

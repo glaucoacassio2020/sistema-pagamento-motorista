@@ -1,4 +1,4 @@
-package entities;
+package br.com.glauco.entities;
 
 public abstract class Motorista {
     private String nome;
